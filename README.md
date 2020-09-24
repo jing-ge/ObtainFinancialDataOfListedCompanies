@@ -14,6 +14,7 @@ This is a python script for geting financial data of listed companies by using m
 
 ps: The file will be downloaded to ./companydata.You can try few times "python 2main.py" due to the bad network.
 
+    The script will skip the files which have been downloaded automaticly.
 ### Requirement
 python == 3.8.3
 
