@@ -11,7 +11,9 @@ ps: The file will be downloaded to ./companydata.You can try few times "python 2
 
 ### Requirement
 python == 3.8.3
+
 pandas == 1.0.5 
+
 baostock == 0.8.8
 
 
